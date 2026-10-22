@@ -1,0 +1,58 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated and build files
+bin/
+gen/
+out/
+build/
+app/build/
+.gradle/
+
+# Local configuration file (contains machine-specific Android SDK path, credentials)
+local.properties
+
+# Proguard / R8 foldering
+proguard/
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Android Studio captures and traces
+/captures/
+*.hprof
+
+# Native C/C++ build caches
+.externalNativeBuild/
+.cxx/
+
+# Keystore files (signing keys)
+*.jks
+*.keystore
+
+# Google Services credentials
+google-services.json
